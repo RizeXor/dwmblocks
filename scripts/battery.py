@@ -10,4 +10,4 @@ try:
     status_file.close()
     percent_file.close()
 except:
-    print("Desktop")
+    print("No BAT")
